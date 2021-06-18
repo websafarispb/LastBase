@@ -1,5 +1,6 @@
 package hw2;
 
 public class TwoTwo {
-    //fsdfdsfdsfdfsdsfdfdsfdsf
+    //
+    //work is successfully done
 }
